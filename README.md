@@ -1,4 +1,7 @@
-## Hi there 👋
+##👋 Hi, I’m Rodrigo Oliveira
+##💼 I’m currently working at Banco Central
+##📫 You can reach me at coderodrigo07@gmail.com
+##➕ More at gabrielditzel.com.br
 
 <!--
 **rodrigodiasz/rodrigodiasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
