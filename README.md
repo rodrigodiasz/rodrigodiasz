@@ -12,7 +12,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Rodrigo Oliveira</h1>
-<h3 align="center">Front-end developer from Brazil</h3><br>
+<h3 align="center">Full stack developer from Brazil</h3><br>
 
 <img align="right" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigodiasz&show_icons=true&locale=en&layout=compact" alt="rodrigodiasz" />
 
