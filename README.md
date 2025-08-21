@@ -16,7 +16,7 @@
 
 <img align="right" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigodiasz&show_icons=true&locale=en&layout=compact" alt="rodrigodiasz" />
 
-- 🔭 I’m currently working at 
+- 🔭 I’m currently working at B4YOU
 
 - 🌱 I’m currently learning **React, TypeScript, and Next.js**
 
