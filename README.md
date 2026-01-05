@@ -7,7 +7,6 @@
 <a href="mailto:coderodrigo07@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
 </div>
 
-<img align="right" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigodiasz&show_icons=true&locale=en&layout=compact" alt="rodrigodiasz" />
 
 - 🔭 I’m currently working at **B4you**
 
